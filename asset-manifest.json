@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ChristmasEvent/static/css/main.acef8913.css",
+    "main.js": "/ChristmasEvent/static/js/main.93225997.js",
+    "static/media/chistmas.jpg": "/ChristmasEvent/static/media/chistmas.20bd963ab3156e1bdee1.jpg",
+    "static/media/ornament.jpg": "/ChristmasEvent/static/media/ornament.51b2531608cf40f43ae8.jpg",
+    "static/media/champagne.jpg": "/ChristmasEvent/static/media/champagne.2a1c84c87f65aa562245.jpg",
+    "static/media/giftexchange.jpg": "/ChristmasEvent/static/media/giftexchange.325642f0fbcf7cbfcb46.jpg",
+    "static/media/cookie.jpg": "/ChristmasEvent/static/media/cookie.b41003734278e45095c5.jpg",
+    "static/media/christmasmarket.jpg": "/ChristmasEvent/static/media/christmasmarket.122a0ad825f2e93d8ed0.jpg",
+    "index.html": "/ChristmasEvent/index.html",
+    "main.acef8913.css.map": "/ChristmasEvent/static/css/main.acef8913.css.map",
+    "main.93225997.js.map": "/ChristmasEvent/static/js/main.93225997.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acef8913.css",
+    "static/js/main.93225997.js"
+  ]
+}
